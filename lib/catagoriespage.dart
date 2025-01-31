@@ -11,7 +11,7 @@ class CategoriesPage extends StatefulWidget {
 }
 
 class _CategoriesPageState extends State<CategoriesPage> with SingleTickerProviderStateMixin {
-  final String apiKey = "62e53d80112541f5a6211063054d4edf";
+  final String apiKey = "";
   final String baseUrl = "https://newsapi.org/v2/top-headlines";
 
   late TabController _tabController;
