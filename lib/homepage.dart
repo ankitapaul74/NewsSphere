@@ -17,7 +17,7 @@ class NewsAppHome extends StatefulWidget {
 }
 
 class _NewsAppHomeState extends State<NewsAppHome> {
-  final String apiKey = "62e53d80112541f5a6211063054d4edf";
+  final String apiKey = "";
   final String baseUrl = "https://newsapi.org/v2/top-headlines";
   String selectedChannel = "bbc-news";
 
