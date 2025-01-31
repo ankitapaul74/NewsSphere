@@ -10,7 +10,7 @@ class YouTubeNewsPage extends StatefulWidget {
 }
 
 class _YouTubeNewsPageState extends State<YouTubeNewsPage> {
-  final String apiKey = "AIzaSyD2RJtPn0TwnN1r0dEmdfh-d0t_g-h4MLg"; // Replace with your valid API key
+  final String apiKey = ""; // Replace with your valid API key
 
   final List<String> newsChannelIds = [
     "UCt4t-jeY85JegMlZ-E5UWtA", // Aaj Tak
